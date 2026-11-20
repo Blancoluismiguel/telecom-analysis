@@ -13,7 +13,7 @@ El dataset `Telecom` incluye datos del año 2024 con planes de clientes con valo
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13WB1I8CHidDJuLr8T1y_-cemLyE0mP6X)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/13WB1I8CHidDJuLr8T1y_-cemLyE0mP6X](https://github.com/Blancoluismiguel/telecom-analysis/blob/8701f95c11b94487df8db64973f7f76cba0b9b91/S7%20Version-Estudiante-Project-ConnectaTel%20(1).ipynb))
 
 O:
 
